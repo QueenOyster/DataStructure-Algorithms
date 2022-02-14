@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/13668154/cant-sort-my-list-because-it-is-nonetype-simple-python/13668190
