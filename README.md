@@ -27,7 +27,7 @@ QueenOyster
   - Integrated version of all repositories
 
 - 0.1 (21/12/15 ~ 22/02/13)
-  - Pushed sourcecodes on each repository
+  - Pushed sourcecodes on each repository(now hidden)
 
 ## License
 
